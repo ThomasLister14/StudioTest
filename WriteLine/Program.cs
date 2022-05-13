@@ -7,6 +7,9 @@ namespace WriteLine
         static void Main(string[] args)
         {
             Console.WriteLine("Thomas");
+            Console.WriteLine("Josh");
+
+            Console.ReadLine();    
         }
     }
 }
